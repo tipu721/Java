@@ -22,5 +22,12 @@ public class VariableCasting {
         System.out.println(variableCasting.b);
         System.out.println(variableCasting.by);
         System.out.println(variableCasting.cy);
+
+        //adding variable with lower memory
+        byte a = 5, b = 4;
+        //byte c=a+b;//Compile Time Error: because a+b=20 will be int
+        byte c = (byte)(a + b);
+        System.out.println(c);
+
     }
 }
