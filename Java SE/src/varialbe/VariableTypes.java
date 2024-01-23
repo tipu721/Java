@@ -1,6 +1,6 @@
 package varialbe;
 
-public class Variable {
+public class VariableTypes {
 
     int data = 50; // instance variable related to object
 
