@@ -10,7 +10,7 @@ package opp.polymorphism;
 //    }
 //}
 
-public class Overloading {
+public class MainMethodOverloading {
 
     public static void main(String arg) {
         System.out.println("Argument with String "+arg);

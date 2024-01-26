@@ -1,4 +1,4 @@
-package opp;
+package opp.inheritance;
 
 class Address{
     String ps;
