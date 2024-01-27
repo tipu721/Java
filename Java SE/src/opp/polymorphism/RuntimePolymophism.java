@@ -29,8 +29,10 @@ class PB extends PA{
 public class RuntimePolymophism {
 
     public static void main(String[] args) {
-        PB pb = new PB();
-        System.out.println(pb.a);
+        PA pa = new PB();
+        pa.print();
+        //variable don't override
+        System.out.println(pa.a);
 
 
     }
