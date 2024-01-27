@@ -1,3 +1,4 @@
+package mypack;
 class A{
     A(){
         System.out.println("A class contstructor called");
@@ -11,7 +12,6 @@ class B extends A{
 class Packaging {
     public static void main(String[] args) {
         B b = new B();
-
     }
     
 }
