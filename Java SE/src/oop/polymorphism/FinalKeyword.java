@@ -1,4 +1,4 @@
-package opp.polymorphism;
+package oop.polymorphism;
 
 final class C{ //can not inherite final class
 

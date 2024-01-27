@@ -1,4 +1,4 @@
-package opp.polymorphism;
+package oop.polymorphism;
 
 //data members are not override
 class PA{

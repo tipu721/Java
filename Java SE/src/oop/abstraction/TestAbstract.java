@@ -1,4 +1,4 @@
-package opp.abstraction;
+package oop.abstraction;
 
 abstract class A{
     abstract void printAbstract();

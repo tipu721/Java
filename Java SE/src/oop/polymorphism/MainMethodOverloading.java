@@ -1,4 +1,4 @@
-package opp.polymorphism;
+package oop.polymorphism;
 
 //overloading not possible for only return type
 //class A{

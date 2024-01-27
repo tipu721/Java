@@ -1,4 +1,4 @@
-package opp.polymorphism;
+package oop.polymorphism;
 
 
 class A1{

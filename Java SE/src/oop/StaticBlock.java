@@ -1,4 +1,4 @@
-package opp;
+package oop;
 
 public class StaticBlock {
 

@@ -1,4 +1,4 @@
-package opp.abstraction;
+package oop.abstraction;
 interface InA{
     void print(); // by default public abstract method
     default void defaultPrint(){

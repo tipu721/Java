@@ -1,4 +1,4 @@
-package opp;
+package oop;
 
 // this use to point current object
 class A{

@@ -1,4 +1,4 @@
-package opp.polymorphism;
+package oop.polymorphism;
 
 class  Parent{
     String color = "White";
