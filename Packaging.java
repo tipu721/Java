@@ -1,4 +1,3 @@
-package mypack;
 class A{
     A(){
         System.out.println("A class contstructor called");
