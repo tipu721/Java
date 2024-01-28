@@ -1,6 +1,9 @@
 package array;
 
 
+import java.nio.charset.StandardCharsets;
+import java.sql.Array;
+
 public class TestArray {
 
     static void modifyArray(int crr[]){
@@ -13,6 +16,15 @@ public class TestArray {
         for (int item : ar) {
             System.out.println(item);
         }
+    }
+
+    static int[] copyArry(int[] crr) {
+        int[] newArray = new int[10];
+        for (int i=0; i<crr.length; i++){
+            newArray[i] = crr[i];
+            System.out.println(newArray[i]);
+        }
+        return newArray;
     }
 
     public static void main(String[] args) {
@@ -32,5 +44,11 @@ public class TestArray {
         }
         printAnonymousArray(new int[]{1, 3, 5, 7});
 
+        copyArry(crr);
+
+        System.out.println(crr.getClass().getName());
+
     }
+
+
 }
