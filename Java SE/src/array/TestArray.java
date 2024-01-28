@@ -9,12 +9,18 @@ public class TestArray {
         }
     }
 
+    static void printAnonymousArray(int[] ar){
+        for (int item : ar) {
+            System.out.println(item);
+        }
+    }
+
     public static void main(String[] args) {
 
 
         int arr[] = {1, 2, 3,4, 5};
         int brr[] = arr; //copy reference
-        int crr[] = new int[5];
+        int[] crr = new int[5];
         for(int i=0; i<brr.length; i++){
             System.out.println(brr[i]);
             crr[i]=brr[i]; //copy array value
@@ -24,6 +30,7 @@ public class TestArray {
         for(int i=0; i<brr.length; i++){
             System.out.println(brr[i] + " "+ arr[i] +" "+ crr[i]);
         }
+        printAnonymousArray(new int[]{1, 3, 5, 7});
 
     }
 }
