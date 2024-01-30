@@ -2,6 +2,10 @@ package operators;
 
 public class Operator {
 
+     public Operator getObject(){
+        return new Operator();
+    }
+
     public Operator(){
         System.out.println("Operator class constructor called");
     }
