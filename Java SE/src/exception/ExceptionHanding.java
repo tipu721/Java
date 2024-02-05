@@ -47,13 +47,13 @@ class TestException{
 
 
 
-    void UncheckExceptionCallingMethod() throws IOException {
+    void UncheckExceptionCallingMethod() throws IOException, SQLDataException {
 
             this.testUnCheckExption(10, 0);
             this.testCheckException();
     }
 
-    void checkExceptionCallingMethod() throws IOException {
+    void checkExceptionCallingMethod() throws IOException, SQLDataException {
 
         this.testCheckException();
     }
@@ -63,14 +63,14 @@ class TestException{
 
 public class ExceptionHanding {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, SQLDataException {
 
 
         TestException te = new TestException();
         try{
             te.UncheckExceptionCallingMethod();
         }
-        catch (ArithmeticException e ){
+        catch (ArithmeticException | SQLDataException e ){
             System.out.println(e.getMessage());
             System.out.println("Checed Exception Propagate here Automaticly");
         }
