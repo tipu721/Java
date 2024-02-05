@@ -1,4 +1,4 @@
-package StreamApi;
+package dit.StreamApi;
 
 import java.util.ArrayList;
 import java.util.List;
