@@ -1,5 +1,10 @@
 package com.tipu.model;
 
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
 public class Programmer {
     String name;
     String company;
@@ -10,6 +15,14 @@ public class Programmer {
     }
     public String getName() {
         return name;
+    }
+
+    @Autowired
+    public Programmer(String name, String company, Laptop laptop) {
+        this.name = name;
+        this.company = company;
+        this.laptop = laptop;
+        System.out.println("Programmer class all arg called");
     }
 
     public void setName(String name) {
