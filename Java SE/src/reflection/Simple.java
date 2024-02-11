@@ -8,4 +8,8 @@ public class Simple{
     public Simple(){
         System.out.println("This is simple class constructor");
     }
+
+    void message(){
+        System.out.println("Hello Java Reflection !");
+    }
 }
