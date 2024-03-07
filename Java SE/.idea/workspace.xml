@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/HelloJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/HelloJava.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/Packaging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/jquery-ui.overrides.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/legal/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/script-dir/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-cmd/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dLHfDwnWjh95vqcuz0wCqjoCGj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.TestArray" />
+      <module name="Java SE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="" />
+      <created>1709780549150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709780549150</updated>
+      <workItem from="1709780556658" duration="746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
