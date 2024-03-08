@@ -43,6 +43,8 @@ class B extends Thread{
         }
 
     }
+
+
 }
 
 public class ThreadTest {
