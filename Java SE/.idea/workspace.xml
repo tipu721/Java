@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/multi_threading/ThreadWithLabmda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multi_threading/RaceCondition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/ThreadTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multi_threading/ThreadTest3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +36,13 @@
     &quot;last_opened_file_path&quot;: &quot;G:/Personal SE/Java/Git Repo/Java/Java SE&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreadWithLabmda">
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control_statements.Loops" />
+  <component name="RunManager" selected="Application.RaceCondition">
+    <configuration name="RaceCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multi_threading.RaceCondition" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="control_statements.*" />
+          <option name="PATTERN" value="multi_threading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RaceCondition" />
         <item itemvalue="Application.ThreadWithLabmda" />
         <item itemvalue="Application.ThreadTest3" />
         <item itemvalue="Application.ThreadTest2" />
         <item itemvalue="Application.ThreadTest" />
-        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,8 @@
       <workItem from="1709824863541" duration="294000" />
       <workItem from="1709863107956" duration="5014000" />
       <workItem from="1709875668271" duration="3264000" />
-      <workItem from="1709887519825" duration="4600000" />
+      <workItem from="1709887519825" duration="6625000" />
+      <workItem from="1709910938488" duration="809000" />
     </task>
     <servers />
   </component>
