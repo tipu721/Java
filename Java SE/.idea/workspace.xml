@@ -2,7 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multi_threading/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/FileInOut/FileInOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/IoReaderWritter/IoReaderWritter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/ObjectInOut/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/ObjectInOut/ObjectInOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/Socket/MyClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/Socket/MyServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/StreamApi/StreamDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/array/TestArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/beffer/Beffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/ControlStatements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/ExecutableCommens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/SwitchEnum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/SwitchEnum$Day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/SwitchEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/datatype/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/BussinessLoan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/CommercialPlan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/DomesticPlan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/EducationLoan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/FactoryAbastract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/FactoryMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/GetPlanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/HDFC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/HomeLoan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/ICICI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/InstitutionalPlan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Loan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Plan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/SBI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/StudentBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/dit/FileReaderWriter/FileWriterReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/dit/StreamApi/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/dit/StreamApi/StreamMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/AgeInvalidException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/CustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/ExceptionHanding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/TestException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/TestExceptionInOverride.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/TestFInalizeMetho.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/generics/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/AnonymousInner$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/AnonymousInner$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/AnonymousInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/Eataable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/MemberInnerClass$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/MemberInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/lambda/LambdaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/CopyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/ObjectCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/StaticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/StaticKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/ThisKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/ImA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/InA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/TestAbstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/TestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/AccessModifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/PackageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/inheritance/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/inheritance/Aggregation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/inheritance/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/A1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/B1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Child1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/FinalKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/InitializerBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/InstanceOfKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/MainMethodOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/PA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/PB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Parent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/RuntimePolymophism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Superkeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/CallByValueAndRef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/CustomWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestImmutableClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestObjecClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestObjectClone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestStrictfp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestWrapperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/operators/Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/CallPrivateMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/MyInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/ReflectionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/TestReflection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/regex/TestRegex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/DifferenceTesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/StringBufferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/StringBuilderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/TestConcat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/TestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/TestToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/MainThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/Printing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/varialbe/VariableCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/varialbe/VariableTypes.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,20 +159,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/Personal SE/Java/Git Repo/Java/Java SE"
   }
-}</component>
-  <component name="RunManager" selected="Application.LambdaTest">
+}]]></component>
+  <component name="RunManager" selected="Application.ThreadTest">
     <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambda.LambdaTest" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control_statements.Loops" />
+      <module name="Java SE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control_statements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,6 +207,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multi_threading.ThreadTest" />
+      <module name="Java SE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multi_threading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,6 +233,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.LambdaTest" />
         <item itemvalue="Application.TestArray" />
       </list>
@@ -89,6 +250,7 @@
       <updated>1709780549150</updated>
       <workItem from="1709780556658" duration="746000" />
       <workItem from="1709824863541" duration="294000" />
+      <workItem from="1709863107956" duration="5014000" />
     </task>
     <servers />
   </component>
