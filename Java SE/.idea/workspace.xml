@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/garbage_collector/TestGarbage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multi_threading/TestRuntime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/TestThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/TestThreadPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multi_threading/TestThreadPool.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,42 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TestThreadPool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multi_threading/TestThreadPool.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestRuntime.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/multi_threading/TestRuntime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestThreadGroup.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestGarbage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/garbage_collector/TestGarbage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/Runnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+            <state relative-caret-position="228">
+              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -79,6 +46,7 @@
         <option value="$PROJECT_DIR$/src/multi_threading/TestThreadPool.java" />
         <option value="$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java" />
         <option value="$PROJECT_DIR$/src/garbage_collector/TestGarbage.java" />
+        <option value="$PROJECT_DIR$/src/multi_threading/TestRuntime.java" />
       </list>
     </option>
   </component>
@@ -122,7 +90,7 @@
               <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java SE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="garbage_collector" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_threading" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestGarbage">
+  <component name="RunManager" selected="Application.TestRuntime">
     <configuration name="TestDaemonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multi_threading.TestDaemonThread" />
       <module name="Java SE" />
@@ -169,6 +137,16 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="garbage_collector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestRuntime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multi_threading.TestRuntime" />
+      <module name="Java SE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multi_threading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,16 +171,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThreadWithLabmda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multi_threading.ThreadWithLabmda" />
-      <module name="Java SE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multi_threading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -217,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadWithLabmda" />
       <item itemvalue="Application.TestDaemonThread" />
       <item itemvalue="Application.TestThreadPool" />
       <item itemvalue="Application.TestThreadGroup" />
       <item itemvalue="Application.TestGarbage" />
+      <item itemvalue="Application.TestRuntime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestRuntime" />
         <item itemvalue="Application.TestGarbage" />
         <item itemvalue="Application.TestThreadGroup" />
         <item itemvalue="Application.TestThreadPool" />
         <item itemvalue="Application.TestDaemonThread" />
-        <item itemvalue="Application.ThreadWithLabmda" />
       </list>
     </recent_temporary>
   </component>
@@ -252,12 +220,13 @@
       <workItem from="1709910938488" duration="809000" />
       <workItem from="1710045711485" duration="631000" />
       <workItem from="1710069564962" duration="1566000" />
-      <workItem from="1710132152061" duration="7955000" />
+      <workItem from="1710132152061" duration="8928000" />
+      <workItem from="1710144362194" duration="832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10152000" />
+    <option name="totallyTimeSpent" value="11957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -265,22 +234,22 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295711" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40744922" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4726257" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.65011287" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4717833" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.5229759" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -319,6 +288,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/TestRuntime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/multi_threading/RaceCondition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -347,9 +323,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/garbage_collector/TestGarbage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/multi_threading/TestThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="626">
           <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -357,24 +354,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/Runnable.java">
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/TestRuntime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/garbage_collector/TestGarbage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        <state relative-caret-position="228">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
         </state>
       </provider>
     </entry>
