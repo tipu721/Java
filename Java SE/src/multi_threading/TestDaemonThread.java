@@ -4,7 +4,7 @@ public class TestDaemonThread extends Thread{
 
     @Override
     public void run() {
-
+        System.out.println(Thread.currentThread().getState());
         if(Thread.currentThread().isDaemon()){
             System.out.println("Daemon Thread Running");
         }
@@ -22,10 +22,7 @@ public class TestDaemonThread extends Thread{
         t1.setDaemon(true);
 
         t1.start();
-        System.out.println(t1.getState());
-        System.out.println("Hello World");
-        System.out.println(t1.getState());
-//        t2.start();
+        t2.start();
 //        t2.setDaemon(true); // not allowed after start
 //        t3.start();
     }
