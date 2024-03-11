@@ -1,14 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java" line="21" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/multi_threading/RaceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/FileInOut/FileInOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/FileInOut/FileInOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/IoReaderWritter/IoReaderWritter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/IoReaderWritter/IoReaderWritter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/ObjectInOut/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/ObjectInOut/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/ObjectInOut/ObjectInOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/ObjectInOut/ObjectInOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/Socket/MyClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/Socket/MyClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/Socket/MyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/Socket/MyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/StreamApi/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/StreamApi/StreamDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/array/TestArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/array/TestArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/beffer/Beffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/beffer/Beffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/ControlStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/control_statements/ControlStatements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/ExecutableCommens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/control_statements/ExecutableCommens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/control_statements/Loops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/SwitchEnum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/control_statements/SwitchEnum$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/SwitchEnum$Day.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/control_statements/SwitchEnum$Day.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/control_statements/SwitchEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/control_statements/SwitchEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/datatype/DataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/datatype/DataTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/BussinessLoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/BussinessLoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/CommercialPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/CommercialPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/DomesticPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/DomesticPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/EducationLoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/EducationLoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/FactoryAbastract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/FactoryAbastract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/FactoryMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/FactoryMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/GetPlanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/GetPlanFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/HDFC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/HDFC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/HomeLoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/HomeLoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/ICICI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/ICICI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/InstitutionalPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/InstitutionalPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Loan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/Loan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Plan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/Plan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/SBI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/SBI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/StudentBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/designpattern/StudentBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/dit/FileReaderWriter/FileWriterReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/dit/FileReaderWriter/FileWriterReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/dit/StreamApi/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/dit/StreamApi/Laptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/dit/StreamApi/StreamMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/dit/StreamApi/StreamMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/AgeInvalidException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/exception/AgeInvalidException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/exception/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/exception/CustomException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/ExceptionHanding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/exception/ExceptionHanding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/exception/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/TestException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/exception/TestException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/TestExceptionInOverride.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/exception/TestExceptionInOverride.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/exception/TestFInalizeMetho.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/exception/TestFInalizeMetho.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/generics/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/generics/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/AnonymousInner$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/innerclass/AnonymousInner$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/AnonymousInner$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/innerclass/AnonymousInner$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/AnonymousInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/innerclass/AnonymousInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/Eataable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/innerclass/Eataable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/MemberInnerClass$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/innerclass/MemberInnerClass$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/MemberInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/innerclass/MemberInnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/innerclass/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/innerclass/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/lambda/LambdaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/BB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/RaceCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/RaceCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/ThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/ThreadTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/ThreadTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/ThreadTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/ThreadTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/ThreadWithLabmda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/ThreadWithLabmda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/CopyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/CopyObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/ObjectCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/ObjectCopy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/StaticBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/StaticBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/StaticKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/StaticKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/ThisKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/ThisKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/ImA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/ImA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/InA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/InA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/TestAbstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/TestAbstract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/TestInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/abstraction/TestInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/AccessModifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/AccessModifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/PackageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/encapsulation/PackageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/inheritance/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/inheritance/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/inheritance/Aggregation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/inheritance/Aggregation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/inheritance/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/inheritance/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/A1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/B1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/B1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Child1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Child1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/FinalKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/FinalKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/InitializerBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/InitializerBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/InstanceOfKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/InstanceOfKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/MainMethodOverloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/MainMethodOverloading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/PA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/PA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/PB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/PB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Parent1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Parent1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/RuntimePolymophism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/RuntimePolymophism.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Superkeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oop/polymorphism/Superkeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/CallByValueAndRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oopMisc/CallByValueAndRef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/CustomWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oopMisc/CustomWrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oopMisc/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oopMisc/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestImmutableClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestImmutableClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestObjecClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestObjecClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestObjectClone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestObjectClone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestStrictfp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestStrictfp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestWrapperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/oopMisc/TestWrapperClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/operators/Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/operators/Operator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/reflection/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/CallPrivateMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/reflection/CallPrivateMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/reflection/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/reflection/MyInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/ReflectionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/reflection/ReflectionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/reflection/Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/reflection/TestReflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/reflection/TestReflection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/regex/TestRegex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/regex/TestRegex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/DifferenceTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/string/DifferenceTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/string/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/StringBufferTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/string/StringBufferTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/StringBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/string/StringBuilderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/TestConcat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/string/TestConcat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/TestString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/string/TestString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/string/TestToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/string/TestToString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/threads/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/threads/Demo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/MainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/threads/MainThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/MyThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/threads/MyThread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/MyThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/threads/MyThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/Printing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/threads/Printing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/threads/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/threads/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/varialbe/VariableCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/varialbe/VariableCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/varialbe/VariableTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/varialbe/VariableTypes.class" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ThreadWithLabmda.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multi_threading/ThreadWithLabmda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDaemonThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,23 +189,85 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="526" />
+    <option name="y" value="68" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
   <component name="ProjectId" id="2dLHfDwnWjh95vqcuz0wCqjoCGj" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java SE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java SE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java SE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_threading" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/Personal SE/Java/Git Repo/Java/Java SE&quot;
-  }
-}</component>
-  <component name="RunManager" selected="Application.RaceCondition">
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestDaemonThread">
     <configuration name="RaceCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multi_threading.RaceCondition" />
       <module name="Java SE" />
@@ -46,12 +277,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multi_threading.ThreadTest" />
+    <configuration name="TestDaemonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multi_threading.TestDaemonThread" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
@@ -59,9 +287,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="ThreadTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multi_threading.ThreadTest2" />
@@ -72,9 +297,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="ThreadTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multi_threading.ThreadTest3" />
@@ -85,9 +307,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="ThreadWithLabmda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multi_threading.ThreadWithLabmda" />
@@ -98,32 +317,41 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.RaceCondition" />
+      <item itemvalue="Application.ThreadTest2" />
+      <item itemvalue="Application.ThreadTest3" />
+      <item itemvalue="Application.ThreadWithLabmda" />
+      <item itemvalue="Application.TestDaemonThread" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RaceCondition" />
+        <item itemvalue="Application.TestDaemonThread" />
         <item itemvalue="Application.ThreadWithLabmda" />
+        <item itemvalue="Application.RaceCondition" />
         <item itemvalue="Application.ThreadTest3" />
         <item itemvalue="Application.ThreadTest2" />
-        <item itemvalue="Application.ThreadTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="" />
@@ -137,21 +365,97 @@
       <workItem from="1709875668271" duration="3264000" />
       <workItem from="1709887519825" duration="6625000" />
       <workItem from="1709910938488" duration="809000" />
+      <workItem from="1710045711485" duration="631000" />
+      <workItem from="1710069564962" duration="1566000" />
+      <workItem from="1710132152061" duration="1458000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3655000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32960895" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.52407" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/RaceCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/RaceCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/ThreadWithLabmda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
