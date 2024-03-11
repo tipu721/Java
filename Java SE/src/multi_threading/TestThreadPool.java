@@ -37,5 +37,10 @@ public class TestThreadPool {
         }
 
 
+        executor.shutdown();
+        System.out.println("Finished all threads");
     }
+
+
 }
+

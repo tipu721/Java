@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/multi_threading/TestThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/garbage_collector/TestGarbage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/TestDaemonThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/TestDaemonThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/multi_threading/TestThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java SE/multi_threading/TestThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multi_threading/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multi_threading/TestThreadPool.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,34 +21,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ThreadWithLabmda.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multi_threading/ThreadWithLabmda.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDaemonThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestThreadPool.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestThreadPool.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/multi_threading/TestThreadPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="282">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestThreadGroup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestGarbage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/garbage_collector/TestGarbage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/Runnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -69,6 +77,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java" />
         <option value="$PROJECT_DIR$/src/multi_threading/TestThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java" />
+        <option value="$PROJECT_DIR$/src/garbage_collector/TestGarbage.java" />
       </list>
     </option>
   </component>
@@ -84,7 +94,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -112,7 +122,7 @@
               <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java SE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="multi_threading" type="462c0819:PsiDirectoryNode" />
+              <item name="garbage_collector" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,17 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestThreadPool">
-    <configuration name="RaceCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multi_threading.RaceCondition" />
-      <module name="Java SE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multi_threading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.TestGarbage">
     <configuration name="TestDaemonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multi_threading.TestDaemonThread" />
       <module name="Java SE" />
@@ -163,8 +163,18 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multi_threading.TestThreadPool" />
+    <configuration name="TestGarbage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="garbage_collector.TestGarbage" />
+      <module name="Java SE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="garbage_collector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestThreadGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multi_threading.TestThreadGroup" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
@@ -173,8 +183,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThreadTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multi_threading.ThreadTest3" />
+    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multi_threading.TestThreadPool" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
@@ -207,19 +217,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RaceCondition" />
-      <item itemvalue="Application.ThreadTest3" />
       <item itemvalue="Application.ThreadWithLabmda" />
       <item itemvalue="Application.TestDaemonThread" />
       <item itemvalue="Application.TestThreadPool" />
+      <item itemvalue="Application.TestThreadGroup" />
+      <item itemvalue="Application.TestGarbage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestGarbage" />
+        <item itemvalue="Application.TestThreadGroup" />
         <item itemvalue="Application.TestThreadPool" />
         <item itemvalue="Application.TestDaemonThread" />
         <item itemvalue="Application.ThreadWithLabmda" />
-        <item itemvalue="Application.RaceCondition" />
-        <item itemvalue="Application.ThreadTest3" />
       </list>
     </recent_temporary>
   </component>
@@ -242,15 +252,15 @@
       <workItem from="1709910938488" duration="809000" />
       <workItem from="1710045711485" duration="631000" />
       <workItem from="1710069564962" duration="1566000" />
-      <workItem from="1710132152061" duration="4358000" />
+      <workItem from="1710132152061" duration="7955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6555000" />
+    <option name="totallyTimeSpent" value="10152000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -260,11 +270,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40335196" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40744922" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47291195" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4726257" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.52407" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5229759" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -316,10 +326,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/multi_threading/RaceCondition.java">
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="70">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -330,22 +340,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java">
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/RaceCondition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        <state relative-caret-position="-85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/multi_threading/TestThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="282">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/garbage_collector/TestGarbage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
         </state>
       </provider>
     </entry>
