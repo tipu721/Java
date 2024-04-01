@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/soket/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/soket/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/network/InetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/network/TestURL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/soket/MyClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/soket/MyServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soket/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/network/MyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soket/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/network/MyServer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/soket/MyClient.java">
+      <file leaf-file-name="TestURL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/network/TestURL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            <state relative-caret-position="238">
+              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,14 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyServer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/soket/MyServer.java">
+      <file leaf-file-name="InetDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/network/InetDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -71,6 +72,9 @@
         <option value="$PROJECT_DIR$/src/collection/QueueTest.java" />
         <option value="$PROJECT_DIR$/src/soket/MyClient.java" />
         <option value="$PROJECT_DIR$/src/soket/MyServer.java" />
+        <option value="$PROJECT_DIR$/src/soket/TestURL.java" />
+        <option value="$PROJECT_DIR$/src/network/TestURL.java" />
+        <option value="$PROJECT_DIR$/src/network/InetDemo.java" />
       </list>
     </option>
   </component>
@@ -87,8 +91,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="430" />
-    <option name="y" value="93" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -115,7 +118,7 @@
               <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java SE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="soket" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,33 +148,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyClient">
-    <configuration name="FileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.FileOutput" />
+  <component name="RunManager" selected="Application.InetDemo">
+    <configuration name="InetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network.InetDemo" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soket.MyClient" />
+      <option name="MAIN_CLASS_NAME" value="network.MyClient" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soket.*" />
+          <option name="PATTERN" value="network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soket.MyServer" />
+      <option name="MAIN_CLASS_NAME" value="network.MyServer" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soket.*" />
+          <option name="PATTERN" value="network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +189,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SerializationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="serialization.SerializationTest" />
+    <configuration name="TestURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="network.TestURL" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serialization.*" />
+          <option name="PATTERN" value="network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,19 +213,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FileOutput" />
-      <item itemvalue="Application.SerializationTest" />
       <item itemvalue="Application.QueueTest" />
       <item itemvalue="Application.MyClient" />
       <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.TestURL" />
+      <item itemvalue="Application.InetDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InetDemo" />
+        <item itemvalue="Application.TestURL" />
         <item itemvalue="Application.MyClient" />
         <item itemvalue="Application.MyServer" />
         <item itemvalue="Application.QueueTest" />
-        <item itemvalue="Application.SerializationTest" />
-        <item itemvalue="Application.FileOutput" />
       </list>
     </recent_temporary>
   </component>
@@ -249,12 +252,12 @@
       <workItem from="1710144362194" duration="2818000" />
       <workItem from="1710317219341" duration="7196000" />
       <workItem from="1711266693109" duration="2125000" />
-      <workItem from="1711944280494" duration="10062000" />
+      <workItem from="1711944280494" duration="14478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33326000" />
+    <option name="totallyTimeSpent" value="37742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -267,16 +270,16 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39503387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3944134" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47065464" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47039106" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.309628" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3880597" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.26927373" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26815644" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,11 +323,31 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="43" />
+      <option name="time" value="56" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>urlcon.getInputStream()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>url.openConnection()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>url</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>urlcon</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>din.readUTF()</expression-string>
         <language-id>JAVA</language-id>
@@ -347,16 +370,6 @@
       </expression>
       <expression>
         <expression-string>ss.accept();</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ss.created</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>System.out.println(&quot;Server socket created&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -593,23 +606,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/soket/MyClient.java">
+    <entry file="file://$PROJECT_DIR$/src/network/MyClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        <state relative-caret-position="187">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/soket/MyServer.java">
+    <entry file="file://$PROJECT_DIR$/src/network/MyServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="-271">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/network/TestURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/net/InetAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="530" column="18" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
+          <folding>
+            <element signature="e#19054#19055#0" expanded="true" />
+            <element signature="e#19094#19095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/network/InetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
         </state>
       </provider>
     </entry>
