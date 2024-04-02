@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/network/InetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/network/TestURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi/AdderRemote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java SE/soket/MyClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java SE/soket/MyServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/soket/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/network/MyClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/soket/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/network/MyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/FileInOut/FileInOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java SE/designpattern/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dit/FileInOut/FileInOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dit/FileInOut/FileInOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dit/designpattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dit/designpattern/Singleton.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestURL.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/network/TestURL.java">
+      <file leaf-file-name="Adder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/rmi/Adder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="85">
+              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,11 +38,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InetDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/network/InetDemo.java">
+      <file leaf-file-name="AdderRemote.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/rmi/AdderRemote.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+            <state relative-caret-position="204">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,6 +55,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -75,6 +82,10 @@
         <option value="$PROJECT_DIR$/src/soket/TestURL.java" />
         <option value="$PROJECT_DIR$/src/network/TestURL.java" />
         <option value="$PROJECT_DIR$/src/network/InetDemo.java" />
+        <option value="$PROJECT_DIR$/src/dit/FileInOut/FileInOut.java" />
+        <option value="$PROJECT_DIR$/src/dit/designpattern/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/rmi/Adder.java" />
+        <option value="$PROJECT_DIR$/src/rmi/AdderRemote.java" />
       </list>
     </option>
   </component>
@@ -90,7 +101,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -101,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,18 +122,45 @@
             <path>
               <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java SE" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java SE" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java SE" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Java SE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java SE" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Java SE" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java SE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java SE" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java SE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="network" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -148,7 +185,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InetDemo">
+  <component name="RunManager" selected="Application.Singleton">
+    <configuration name="Beffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beffer.Beffer" />
+      <module name="Java SE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FileInOut (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dit.FileInOut.FileInOut" />
+      <module name="Java SE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dit.FileInOut.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FileInOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileInOut.FileInOut" />
+      <module name="Java SE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileInOut.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="InetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="network.InetDemo" />
       <module name="Java SE" />
@@ -159,42 +226,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="network.MyClient" />
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dit.designpattern.Singleton" />
       <module name="Java SE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="network.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="network.MyServer" />
-      <module name="Java SE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="network.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.QueueTest" />
-      <module name="Java SE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="network.TestURL" />
-      <module name="Java SE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="network.*" />
+          <option name="PATTERN" value="dit.designpattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,19 +250,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QueueTest" />
-      <item itemvalue="Application.MyClient" />
-      <item itemvalue="Application.MyServer" />
-      <item itemvalue="Application.TestURL" />
       <item itemvalue="Application.InetDemo" />
+      <item itemvalue="Application.Beffer" />
+      <item itemvalue="Application.FileInOut" />
+      <item itemvalue="Application.FileInOut (1)" />
+      <item itemvalue="Application.Singleton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Singleton" />
+        <item itemvalue="Application.FileInOut (1)" />
+        <item itemvalue="Application.FileInOut" />
+        <item itemvalue="Application.Beffer" />
         <item itemvalue="Application.InetDemo" />
-        <item itemvalue="Application.TestURL" />
-        <item itemvalue="Application.MyClient" />
-        <item itemvalue="Application.MyServer" />
-        <item itemvalue="Application.QueueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -252,29 +289,30 @@
       <workItem from="1710144362194" duration="2818000" />
       <workItem from="1710317219341" duration="7196000" />
       <workItem from="1711266693109" duration="2125000" />
-      <workItem from="1711944280494" duration="14478000" />
+      <workItem from="1711944280494" duration="15412000" />
+      <workItem from="1712030146292" duration="2230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37742000" />
+    <option name="totallyTimeSpent" value="40906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3295711" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32849163" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3944134" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39841986" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47039106" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.46952596" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3880597" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.38402626" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -376,13 +414,27 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/network/TestURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/network/InetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/QueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="31" column="44" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="31" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -593,9 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -610,9 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,19 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-271">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/network/TestURL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -640,10 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-185">
           <caret line="530" column="18" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
-          <folding>
-            <element signature="e#19054#19055#0" expanded="true" />
-            <element signature="e#19094#19095#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,6 +680,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dit/designpattern/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dit/FileInOut/FileInOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dit/beffer/Beffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/network/TestURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rmi/Adder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rmi/AdderRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

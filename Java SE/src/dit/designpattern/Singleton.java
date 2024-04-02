@@ -1,4 +1,4 @@
-package designpattern;
+package dit.designpattern;
 
 
 class A {
