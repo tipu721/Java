@@ -1,6 +1,4 @@
-package multi_threading;
-
-import javax.print.attribute.standard.ReferenceUriSchemesSupported;
+package multithreading;
 
 public class TestRuntime {
 

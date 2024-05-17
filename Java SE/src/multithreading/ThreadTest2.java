@@ -1,4 +1,4 @@
-package multi_threading;
+package multithreading;
 
 class AA implements Runnable{
 

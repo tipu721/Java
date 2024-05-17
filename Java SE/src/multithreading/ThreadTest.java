@@ -1,6 +1,5 @@
-package multi_threading;
+package multithreading;
 
-import java.sql.SQLOutput;
 
 class A extends Thread{
     void show(){

@@ -1,4 +1,4 @@
-package multi_threading;
+package multithreading;
 
 
 public class ThreadTest3 implements Runnable{
