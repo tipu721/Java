@@ -8,7 +8,7 @@ public class ButtonWithImage {
         JFrame frame = new JFrame("Button With Image");
 
 
-        JButton button = new JButton(new ImageIcon("C:\\Users\\User\\Desktop\\pngwing.com.png"));
+        JButton button = new JButton(new ImageIcon("C:\\Users\\User\\Desktop\\Rakhi\\download.jpg"));
         button.setBounds(200, 200, 100, 80);
 
         frame.add(button);
