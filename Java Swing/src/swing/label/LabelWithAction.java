@@ -1,4 +1,4 @@
-package main.button;
+package swing.label;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
