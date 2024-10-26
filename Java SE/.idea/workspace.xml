@@ -4,20 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java" line="21" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/multithreading/CreateThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java Swing/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/RaceCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/RaceCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/TestDaemonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/TestDaemonThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/TestRuntime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/TestRuntime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/TestThreadGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/TestThreadGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/TestThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/ThreadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ThreadTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/ThreadTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ThreadTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multi_threading/ThreadWithLabmda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ThreadWithLabmda.java" afterDir="false" />
-    </list>
+    <list default="true" id="ea449c7c-18cd-442f-bf10-5ee8213f5e69" name="Changes" comment="c" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +102,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "G:/Personal SE/Git Repo/Java/Java SE"
+    "last_opened_file_path": "G:/Personal SE/Git Repo/Java/Java SE",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager" selected="Application.CreateThread">
@@ -242,6 +230,14 @@
       <workItem from="1712120036421" duration="3699000" />
       <workItem from="1715940956850" duration="2824000" />
     </task>
+    <task id="LOCAL-00001" summary="c">
+      <created>1729917031692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729917031693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -290,6 +286,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="c" />
+    <option name="LAST_COMMIT_MESSAGE" value="c" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
